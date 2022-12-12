@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamdevonks
 - 👀 I’m interested in learning what the cool kids are using. 
-- 🌱 I’m currently learning technologies about Wolfram Language.
-- 💞️ I’m looking to collaborate on ...nothing.
+- 🌱 I work primarily in Wolfram Language. 
+- 💞️ I’m looking to collaborate on ...nothing right now.
 - 📫 How to reach me ... iamdevonks@gmail.com
 
 <!---
